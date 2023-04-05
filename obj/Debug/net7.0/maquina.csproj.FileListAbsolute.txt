@@ -1,0 +1,15 @@
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\bin\Debug\net7.0\maquina.exe
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\bin\Debug\net7.0\maquina.deps.json
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\bin\Debug\net7.0\maquina.runtimeconfig.json
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\bin\Debug\net7.0\maquina.dll
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\bin\Debug\net7.0\maquina.pdb
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\maquina.csproj.AssemblyReference.cache
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\maquina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\maquina.AssemblyInfoInputs.cache
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\maquina.AssemblyInfo.cs
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\maquina.csproj.CoreCompileInputs.cache
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\maquina.dll
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\refint\maquina.dll
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\maquina.pdb
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\maquina.genruntimeconfig.cache
+C:\Users\rjbr8\OneDrive\CURSOS\PARQUESOFT\C#\maquina\obj\Debug\net7.0\ref\maquina.dll
