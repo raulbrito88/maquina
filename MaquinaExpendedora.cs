@@ -231,10 +231,10 @@ public class MaquinaExpendedora
             consumible.Cantidad--;
             Console.WriteLine($"\nPRODUCTO COMPRADO: {consumible.Nombre}, PRECIO: ${consumible.Precio}");
             Console.WriteLine($"DEVOLUCIÓN: ${dineroIngresado - consumible.Precio} en...");
-            Console.WriteLine($"Monedas de $500: {cantidadMonedas500}");
-            Console.WriteLine($"Monedas de $200: {cantidadMonedas200}");
-            Console.WriteLine($"Monedas de $100: {cantidadMonedas100}");
-            Console.WriteLine($"Monedas de $50: {cantidadMonedas50}");
+            Console.WriteLine($"{cantidadMonedas500} moneda(s) de $500");
+            Console.WriteLine($"{cantidadMonedas200} moneda(s) de $200");
+            Console.WriteLine($"{cantidadMonedas100} moneda(s) de $100");
+            Console.WriteLine($"{cantidadMonedas50} moneda(s) de $50");
     }
 }
 
